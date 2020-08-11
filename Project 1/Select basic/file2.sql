@@ -5,7 +5,7 @@ SELECT name, population FROM world
   
 Checking a list The word " IN "  allows us to check if an item is in a list. This query shows the name and population for the countries  'Sweden', 'Norway' and 'Denmark'
 
-It display following: 
+This display following data:
 
 Correct answer
 name	population
